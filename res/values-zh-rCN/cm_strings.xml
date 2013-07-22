@@ -34,8 +34,6 @@
     <string name="pref_summary_mms_notification_vibrate_pattern">更改震动形式</string>
     <string name="pref_title_mms_notification_vibrate_custom">自定义震动形式</string>
     <string name="pref_text_mms_notification_vibrate_custom">格式为关/开 (毫秒为单位): 关, 开, 关, 开/u2026</string>
-    <string name="pref_title_mms_notification_vibrate_call">通话时震动</string>
-    <string name="pref_summary_mms_notification_vibrate_call">允许通话时震动</string>
     <string name="pref_quickmessage">快速回复</string>
     <string name="pref_dark_theme_title">使用暗色主题</string>
     <string name="pref_dark_theme_summary">如果未被选中，默认的 \'淡色\' 主题将会被使用</string>
@@ -93,4 +91,6 @@
     <string name="menu_insert_contact_info">插入联系人信息</string>
     <string name="cannot_find_contact">无法插入选中的联系人信息</string>
     <string name="insert_contact_info_positive_button">插入</string>
+    <string name="label_mms_push">彩信推送</string>
+    <string name="desc_mms_push">将彩信从发件箱推送到移动网络</string>
 </resources>
