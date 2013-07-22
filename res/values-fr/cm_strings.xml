@@ -34,8 +34,6 @@
     <string name="pref_summary_mms_notification_vibrate_pattern">Changer le style de vibration</string>
     <string name="pref_title_mms_notification_vibrate_custom">Style de vibration personnalisé</string>
     <string name="pref_text_mms_notification_vibrate_custom">Format off/on en millisecondes: off, on, off, on, \u2026</string>
-    <string name="pref_title_mms_notification_vibrate_call">Vibration lors d\'un appel</string>
-    <string name="pref_summary_mms_notification_vibrate_call">Autoriser la vibration pendant un appel</string>
     <string name="pref_quickmessage">Réponse rapide</string>
     <string name="pref_dark_theme_title">Utiliser le thème noir</string>
     <string name="pref_dark_theme_summary">Si non sélectionné, le thème \'clair\' sera utilisé par défaut</string>
@@ -72,7 +70,7 @@
     <string name="pref_title_unicode_stripping">Gestion Unicode</string>
     <string name="pref_unicode_stripping_leave_intact">Conserver les caractères</string>
     <string name="pref_unicode_stripping_non_encodable">Enlever les caractères non encodables</string>
-    <string name="pref_unicode_stripping_all">Enlever tout les caractères Unicode</string>
+    <string name="pref_unicode_stripping_all">Enlever tous les caractères Unicode</string>
     <string name="pref_title_enable_emojis">Activer les Emoji</string>
     <string name="pref_summary_enable_emojis">Activer la reconnaissance des Emoji, 471 belles émoticônes</string>
     <string name="menu_insert_emoji">Insérer un Emoji</string>
